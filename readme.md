@@ -3,6 +3,8 @@ araisan dungeon
 
 アライさんマンションの3Dダンジョン風ゲームです。
 
+![タイトル画像](https://user-images.githubusercontent.com/48826557/151699221-d3dbe534-fce7-4670-925f-134ea5d3102e.png)
+
 ## Description
 アライさんマンションのゲームです。  
 Javardryにて制作されています。
@@ -15,13 +17,12 @@ JAVAランタイムが動くPCにて動作します。
 https://araisan-dungeon.web.app/
 
 ## VS. 
-https://freegame-mugen.jp/adventure/game_9599.html
+https://freegame-mugen.jp/adventure/game_9599.html  
 ↑GOOD！ TRUE！
 
 ## Caution
-windows版にて確認済み。
-Javerdry自体、mac,linuxでも動くらしいです。
-動作未確認。
+windows版にて確認済み。  
+Javerdry自体、mac,linuxでも動くらしいですが動作未確認。
 
 ## Licence
 Not Free(再配布・流用は困難)
