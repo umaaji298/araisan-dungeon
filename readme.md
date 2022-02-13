@@ -3,7 +3,7 @@ araisan dungeon
 
 アライさんマンションの3Dダンジョン風ゲームです。
 
-![タイトル画像](https://user-images.githubusercontent.com/48826557/151699221-d3dbe534-fce7-4670-925f-134ea5d3102e.png)
+![タイトル画像](https://user-images.githubusercontent.com/48826557/153757332-f3146b16-840c-4e72-8356-8f6ba4b8414c.png)
 
 ## Description
 アライさんマンションのゲームです。  
