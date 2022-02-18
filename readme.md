@@ -13,6 +13,9 @@ JAVAランタイムが動くPCにて動作します。
 某掲示板のログデータをイベント化しようと思ったんですが、  
 とても作りきれそうにないので墓場代わりにシナリオデータ置いておきます。
 
+データを弄る場合は、JavardryEditerでシナリオデータを読み込んで、
+実行ファイルを出力して、下記のDemo配布サイトのデータを上書きして下さい。
+
 ## Demo
 https://araisan-dungeon.web.app/
 
@@ -21,8 +24,8 @@ https://freegame-mugen.jp/adventure/game_9599.html
 ↑GOOD！ TRUE！
 
 ## Caution
-windows版にて確認済み。  
-Javerdry自体、mac,linuxでも動くらしいですが動作未確認。
+windows,linux(ubuntu)版にて確認済み。  
+Javerdry自体、macでも動くらしいですが動作未確認。
 
 ## Licence
 Not Free(再配布・流用は困難)
