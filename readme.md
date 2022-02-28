@@ -23,6 +23,9 @@ https://araisan-dungeon.web.app/
 https://freegame-mugen.jp/adventure/game_9599.html  
 ↑GOOD！ TRUE！
 
+https://www.youtube.com/watch?v=QBGaO89cBMI
+↑Araisan mansion like movie!
+
 ## Caution
 windows,linux(ubuntu)版にて確認済み。  
 Javerdry自体、macでも動くらしいですが動作未確認。
