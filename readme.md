@@ -3,27 +3,30 @@ araisan dungeon
 
 アライさんマンションの3Dダンジョン風ゲームです。
 
-![タイトル画像](https://user-images.githubusercontent.com/48826557/153757332-f3146b16-840c-4e72-8356-8f6ba4b8414c.png)
+![タイトル画像](https://user-images.githubusercontent.com/48826557/164995693-329f9c3d-53fc-4b26-9069-0768049c264c.png)
 
 ## Description
 アライさんマンションのゲームです。  
 Javardryにて制作されています。
 JAVAランタイムが動くPCにて動作します。  
 
-某掲示板のログデータをイベント化しようと思ったんですが、  
-とても作りきれそうにないので墓場代わりにシナリオデータ置いておきます。
+某掲示板の手書きデータをJavardryのイベントとして作る試みです。  
 
-データを弄る場合は、JavardryEditerでシナリオデータを読み込んで、
-実行ファイルを出力して、下記のDemo配布サイトのデータを上書きして下さい。
+データを弄る場合は、JavardryEditerでシナリオデータを読み込んで、  
+データファイルgameData.datを出力してください。
+
+その後、下記のDemo配布サイトで配布しているファイルの中でdata/gameData.datを上書きして下さい。
 
 ## Demo
 https://araisan-dungeon.web.app/
+
+1.0.1完成しました。
 
 ## VS. 
 https://freegame-mugen.jp/adventure/game_9599.html  
 ↑GOOD！ TRUE！
 
-https://www.youtube.com/watch?v=QBGaO89cBMI
+https://www.youtube.com/watch?v=QBGaO89cBMI  
 ↑Araisan mansion like movie!
 
 ## Caution
