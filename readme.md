@@ -22,6 +22,8 @@ https://araisan-dungeon.web.app/
 
 1.0.1完成しました。
 
+![minmi](https://user-images.githubusercontent.com/48826557/164995932-926bc8cf-73a5-483d-bfa7-44c060d19239.png)
+
 ## VS. 
 https://freegame-mugen.jp/adventure/game_9599.html  
 ↑GOOD！ TRUE！
